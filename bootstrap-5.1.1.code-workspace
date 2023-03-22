@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap-5.1.1",
+			"path": "../../Downloads/bootstrap-5.1.1/bootstrap-5.1.1"
+		},
+		{
+			"path": "../Bootstrap-20221129T021937Z-001/Bootstrap"
+		},
+		{
+			"path": "../1201-NEW"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1201-NEW"
+	}
+}
